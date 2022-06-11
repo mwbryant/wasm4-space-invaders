@@ -1,6 +1,6 @@
 # wasm4_game
 
-A game written in Zig for the [WASM-4](https://wasm4.org) fantasy console.
+A game written in Zig for the [WASM-4](https://wasm4.org) fantasy console. My first time using zig and recorded live on youtube.  Many things are probably wrong.
 
 ## Building
 
